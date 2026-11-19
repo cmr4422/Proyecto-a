@@ -50,3 +50,12 @@ Este es un _**Ejemplo de combinaciones**_
  - [ ]  guion
  - [x]  cita
  - [ ]  hola
+
+
+# Ejempló de citacion 
+
+Mis estudiantes dijeron :
+
+> profe, ya compro el GTA VI?
+> Por que no?
+> Si es un juego buenisimo!!
