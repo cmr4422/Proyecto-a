@@ -59,3 +59,11 @@ Mis estudiantes dijeron :
 > profe, ya compro el GTA VI?
 > Por que no?
 > Si es un juego buenisimo!!
+
+
+# Snippets de codigo
+
+``` python
+print("hola")
+```
+
