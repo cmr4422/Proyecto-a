@@ -46,7 +46,7 @@ Este es un _**Ejemplo de combinaciones**_
 
  # Ejemplo de una checklist: Detener el pasaporte
 
- - [ ]  sacar cita
+ - [x]  sacar cita
  - [ ]  guion
- - [ ]  cita
+ - [x]  cita
  - [ ]  hola
