@@ -26,3 +26,11 @@ Este es un _**Ejemplo de combinaciones**_
 * azul
 * rojo
 * verde
+
+
+# Ejemplo de una lista numerada: Pilotos de F1
+
+1. kimi Antonelli
+2. Max Verstappen
+3. Fernando Alonso
+4. Charles LeClerc
