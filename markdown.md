@@ -42,3 +42,11 @@ Este es un _**Ejemplo de combinaciones**_
 * Jupiter
   * calisto
   * ganimedes
+
+
+ # Ejemplo de una checklist: Detener el pasaporte
+
+ - [ ]  sacar cita
+ - [ ]  guion
+ - [ ]  cita
+ - [ ]  hola
