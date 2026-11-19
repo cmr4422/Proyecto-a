@@ -70,9 +70,7 @@ print("hola")
 # Ejemplo de tablas: Tabla de verdad xor 
 
 A | B | A XOR B
-
 --|--|-------
-
 1 | 1 | 0
 1 | 0 | 1
 0 | 1 | 1
