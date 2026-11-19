@@ -2,10 +2,10 @@
 
 Esto es texto normal 
 
-##Este es un encabezado de nivel 2
+## Este es un encabezado de nivel 2
 
 Esto es mas texto normal 
 
-###Esto es un encabzado de nivel 3
+### Esto es un encabzado de nivel 3
 
 Todavia mas texto normal 
