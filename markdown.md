@@ -19,3 +19,10 @@ Este es un ejemplo de **texto en negrillas**
 Otro ejemplo de __texto en negrillas__
 
 Este es un _**Ejemplo de combinaciones**_
+
+# Ejemplo de lista con viñetas: Lista de colores
+
+* amarillo 
+* azul
+* rojo
+* verde
