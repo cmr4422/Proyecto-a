@@ -80,3 +80,5 @@ A | B | A XOR B
 # Ejemplo emojis
 
 :+1: :octocat: :grin: :scorpion: :black_heart: :metal:
+
+### Y eso es todo, amigos!
