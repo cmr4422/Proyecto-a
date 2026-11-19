@@ -75,3 +75,8 @@ A | B | A XOR B
 1 | 0 | 1
 0 | 1 | 1
 0 | 0 | 0
+
+
+# Ejemplo emojis
+
+:+1: :octocat: :grin: :scorpion: :black_heart: :metal:
