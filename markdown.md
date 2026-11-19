@@ -34,3 +34,11 @@ Este es un _**Ejemplo de combinaciones**_
 2. Max Verstappen
 3. Fernando Alonso
 4. Charles LeClerc
+
+# Ejemplo de una lista de varios niveles: Planetas y sus lunas
+
+*Tierra 
+  * Luna
+* Jupiter
+  * calisto
+  * ganimedes
